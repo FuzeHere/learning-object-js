@@ -1,0 +1,1 @@
+This code is used for practice an object model in js and teached by Agung Hapsah
